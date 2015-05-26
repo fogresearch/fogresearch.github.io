@@ -1,0 +1,51 @@
+- title: About
+  url: "/info/"
+  side: left
+
+- title: News
+  url: "/news/"
+  side: left
+
+- title: "White papers"
+  url: "/whitepapers/"
+  side: left
+  
+- title: "Research papers"
+  url: "/researchpapers/"
+  side: left
+  dropdown:
+  - title: "Crowd-based network measurement and inference" 
+  - url: "/design/header-full-width-image/" 
+  
+  - title: "Client-side network control and configuration"
+  - url: "/design/header-full-width-image/"
+  - title: "Over The Top (OTT) content management"
+  - url: "/design/header-full-width-image/"
+  - title: "Distributed data centers and local storage/computing"
+  - url: "/design/header-full-width-image/"
+  - title: "Physical layer resource pooling among clients"
+  - url: "/design/header-full-width-image/"  
+  - title: Fog architecture for IoT (15)
+  - url: "/design/header-full-width-image/"
+  - title: "Edge analytics/sensing, stream mining, and augmented reality"  
+  - url: "/design/header-full-width-image/"
+  - title: "Security and privacy of Fog "
+  - url: "/design/header-full-width-image/"
+  
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: Blog
+    url: "/blog/"
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

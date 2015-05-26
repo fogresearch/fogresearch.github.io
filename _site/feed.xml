@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description></description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>First International 5G Summit takes place in Princeton</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Recently, IEEE Communication Society has developed a strategic framework based on the principles that embrace Industry’s interests and priorities while integrating IEEE and ComSoc’s objectives. In order to engage industry members with high value and innovative technologies, IEEE Communication Society plans to hold a series of high impact one day Summits in emerging technology areas (e.g., SDN/NFV, 5G, IoT, Big Data, and Cybersecurity). Upcoming IEEE International 5G Summit is the first one in the series that is being planned in Princeton University on Tuesday, May 26, 2015. This one day summit will provide a platform for the industry leaders, innovators, and researchers from the industry and academic community to collaborate and exchange ideas in this emerging technology that may help in driving the standards and rapid deployment.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For more please follow the &lt;a href=&quot;http://5gsummit.org&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Nov 2015 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/news/2015/11/15/5GSummit.html</link>
+        <guid isPermaLink="true">http://localhost:4000/news/2015/11/15/5GSummit.html</guid>
+      </item>
+    
+      <item>
+        <title>First MOOC on FOG</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;This course teaches the fundamentals of Fog Networking, the network architecture that uses one or a collaborative multitude of end-user clients or near-user edge devices to carry out storage, communication, computation, and control in a network. It also teaches the key results in the design of the Internet of Things, including consumer and industrial applications.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For more please follow the &lt;a href=&quot;https://www.coursera.org/course/fog?sharebuttons_ref=fb&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Mar 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/news/2015/03/10/FOGCOurse.html</link>
+        <guid isPermaLink="true">http://localhost:4000/news/2015/03/10/FOGCOurse.html</guid>
+      </item>
+    
+  </channel>
+</rss>
