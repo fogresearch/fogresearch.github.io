@@ -4,7 +4,7 @@ subheadline: "Education"
 title: "First MOOC on FOG"
 teaser: "Fog Networks and the Internet of Things"
 categories:
-    - news    
+    - news   
 comments: true
 show_meta: false
 ---

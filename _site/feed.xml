@@ -20,6 +20,62 @@
       </item>
     
       <item>
+        <title>Lineking: Crowdsourced line wait-time estimation using smartphones</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://link.springer.com/chapter/10.1007/978-3-642-36632-1_12&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 May 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/researchpaper/2015/05/27/paper6.html</link>
+        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/05/27/paper6.html</guid>
+      </item>
+    
+      <item>
+        <title>Understanding the coverage and scalability of place-centric crowdsensing</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2493498&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 May 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/researchpaper/2015/05/27/paper5.html</link>
+        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/05/27/paper5.html</guid>
+      </item>
+    
+      <item>
+        <title>Lowering the barriers to large-scale mobile crowdsensing</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2444789&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 May 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/researchpaper/2015/05/27/paper4.html</link>
+        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/05/27/paper4.html</guid>
+      </item>
+    
+      <item>
+        <title>Coordinating cellular background transfers using loadsense</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2500447&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 May 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/researchpaper/2015/05/27/paper3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/05/27/paper3.html</guid>
+      </item>
+    
+      <item>
+        <title>Multitiered inference management architecture for participatory sensing</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6815168&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 May 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/researchpaper/2015/05/27/paper2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/05/27/paper2.html</guid>
+      </item>
+    
+      <item>
+        <title>No one-size fits all: towards a principled approach for incentives in mobile crowdsourcing</title>
+        <description>&lt;p&gt;&lt;strong&gt;No one-size fits all: towards a principled approach for incentives in mobile crowdsourcing&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2565603&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 May 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/researchpaper/2015/05/27/paper1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/05/27/paper1.html</guid>
+      </item>
+    
+      <item>
         <title>First MOOC on FOG</title>
         <description>&lt;blockquote&gt;
   &lt;p&gt;This course teaches the fundamentals of Fog Networking, the network architecture that uses one or a collaborative multitude of end-user clients or near-user edge devices to carry out storage, communication, computation, and control in a network. It also teaches the key results in the design of the Internet of Things, including consumer and industrial applications.&lt;/p&gt;
@@ -28,8 +84,8 @@
 &lt;p&gt;For more please follow the &lt;a href=&quot;https://www.coursera.org/course/fog?sharebuttons_ref=fb&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Mar 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/news/2015/03/10/FOGCOurse.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2015/03/10/FOGCOurse.html</guid>
+        <link>http://localhost:4000/news/2015/03/10/FOGCourse.html</link>
+        <guid isPermaLink="true">http://localhost:4000/news/2015/03/10/FOGCourse.html</guid>
       </item>
     
   </channel>
