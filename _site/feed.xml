@@ -20,6 +20,70 @@
       </item>
     
       <item>
+        <title>Privacy-preserving public auditing for data storage security in cloud computing</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://link.springer.com/chapter/10.1007/978-1-4419-1674-7_38&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 May 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/researchpaper/2015/05/28/paper7.html</link>
+        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/05/28/paper7.html</guid>
+      </item>
+    
+      <item>
+        <title>An overview of privacy and security issues in the internet of things</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://link.springer.com/chapter/10.1007/978-1-4419-1674-7_38&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 May 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/researchpaper/2015/05/28/paper6.html</link>
+        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/05/28/paper6.html</guid>
+      </item>
+    
+      <item>
+        <title>Sedic: privacy-aware data intensive computing on hybrid clouds</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2046767&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 May 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/researchpaper/2015/05/28/paper5.html</link>
+        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/05/28/paper5.html</guid>
+      </item>
+    
+      <item>
+        <title>Fog computing: Mitigating insider data theft attacks in the cloud</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6227695&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 May 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/researchpaper/2015/05/28/paper4.html</link>
+        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/05/28/paper4.html</guid>
+      </item>
+    
+      <item>
+        <title>Reliability in the utility computing era: Towards reliable Fog computing</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6623445&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 May 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/researchpaper/2015/05/28/paper3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/05/28/paper3.html</guid>
+      </item>
+    
+      <item>
+        <title>Hardware and embedded security in the context of internet of things</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2517976&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 May 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/researchpaper/2015/05/28/paper2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/05/28/paper2.html</guid>
+      </item>
+    
+      <item>
+        <title>Zerosquare: A privacy-friendly location hub for geosocial applications</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://www.mostconf.org/2013/papers/18.pdf&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 28 May 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/researchpaper/2015/05/28/paper1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/05/28/paper1.html</guid>
+      </item>
+    
+      <item>
         <title>Fog Networks</title>
         <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://www.slideserve.com/marsden-lopez/fog-networks&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -35,69 +99,6 @@
         <pubDate>Wed, 27 May 2015 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/whitepaper/2015/05/27/whitepaper2.html</link>
         <guid isPermaLink="true">http://localhost:4000/whitepaper/2015/05/27/whitepaper2.html</guid>
-      </item>
-    
-      <item>
-        <title>Fog Computing and Its Role in the Internet of Things</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://conferences.sigcomm.org/sigcomm/2012/paper/mcc/p13.pdf&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 27 May 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/whitepaper/2015/05/27/whitepaper1.html</link>
-        <guid isPermaLink="true">http://localhost:4000/whitepaper/2015/05/27/whitepaper1.html</guid>
-      </item>
-    
-      <item>
-        <title>Using on-the-move mining for mobile crowdsensing</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=63413810&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 27 May 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/05/27/paper9.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/05/27/paper9.html</guid>
-      </item>
-    
-      <item>
-        <title>Zee: zero-effort crowdsourcing for indoor localization</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2348580&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 27 May 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/05/27/paper8.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/05/27/paper8.html</guid>
-      </item>
-    
-      <item>
-        <title>Eywa: Crowdsourced and cloudsourced omniscience</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6529480&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 27 May 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/05/27/paper7.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/05/27/paper7.html</guid>
-      </item>
-    
-      <item>
-        <title>Lineking: Crowdsourced line wait-time estimation using smartphones</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://link.springer.com/chapter/10.1007/978-3-642-36632-1_12&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 27 May 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/05/27/paper6.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/05/27/paper6.html</guid>
-      </item>
-    
-      <item>
-        <title>Understanding the coverage and scalability of place-centric crowdsensing</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2493498&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 27 May 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/05/27/paper5.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/05/27/paper5.html</guid>
-      </item>
-    
-      <item>
-        <title>Lowering the barriers to large-scale mobile crowdsensing</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2444789&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 27 May 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/05/27/paper4.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/05/27/paper4.html</guid>
       </item>
     
   </channel>
