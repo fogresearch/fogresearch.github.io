@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Crowd-based network measurement and inference"
+title: "Client-side network control and configuration"
 subheadline: "Selected papers"
 permalink: "/researchpapers/crowd/"
 ---
