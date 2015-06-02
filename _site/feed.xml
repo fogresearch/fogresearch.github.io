@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FOG Network</title>
-    <description>»Some description goes here!</description>
-    <link>https://fogresearch.github.io/</link>
-    <atom:link href="https://fogresearch.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <title></title>
+    <description></description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>First International 5G Summit takes place in Princeton</title>
@@ -15,8 +15,8 @@
 &lt;p&gt;For more please follow the &lt;a href=&quot;http://5gsummit.org&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Nov 2015 00:00:00 -0500</pubDate>
-        <link>https://fogresearch.github.io/news/5GSummit/</link>
-        <guid isPermaLink="true">https://fogresearch.github.io/news/5GSummit/</guid>
+        <link>http://localhost:4000/news/2015/11/15/5GSummit.html</link>
+        <guid isPermaLink="true">http://localhost:4000/news/2015/11/15/5GSummit.html</guid>
       </item>
     
       <item>
@@ -24,8 +24,8 @@
         <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6336482&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jun 2015 00:00:00 -0400</pubDate>
-        <link>https://fogresearch.github.io/researchpaper/paper9/</link>
-        <guid isPermaLink="true">https://fogresearch.github.io/researchpaper/paper9/</guid>
+        <link>http://localhost:4000/researchpaper/2015/06/02/paper9.html</link>
+        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/02/paper9.html</guid>
       </item>
     
       <item>
@@ -33,8 +33,8 @@
         <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2342513&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jun 2015 00:00:00 -0400</pubDate>
-        <link>https://fogresearch.github.io/researchpaper/paper8/</link>
-        <guid isPermaLink="true">https://fogresearch.github.io/researchpaper/paper8/</guid>
+        <link>http://localhost:4000/researchpaper/2015/06/02/paper8.html</link>
+        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/02/paper8.html</guid>
       </item>
     
       <item>
@@ -42,8 +42,8 @@
         <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6163598&amp;amp;tag=1&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jun 2015 00:00:00 -0400</pubDate>
-        <link>https://fogresearch.github.io/researchpaper/paper7/</link>
-        <guid isPermaLink="true">https://fogresearch.github.io/researchpaper/paper7/</guid>
+        <link>http://localhost:4000/researchpaper/2015/06/02/paper7.html</link>
+        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/02/paper7.html</guid>
       </item>
     
       <item>
@@ -51,8 +51,8 @@
         <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6654905&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jun 2015 00:00:00 -0400</pubDate>
-        <link>https://fogresearch.github.io/researchpaper/paper6/</link>
-        <guid isPermaLink="true">https://fogresearch.github.io/researchpaper/paper6/</guid>
+        <link>http://localhost:4000/researchpaper/2015/06/02/paper6.html</link>
+        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/02/paper6.html</guid>
       </item>
     
       <item>
@@ -60,8 +60,8 @@
         <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://tf.nist.gov/seminars/WSTS/PDFs/1-0_Cisco_FBonomi_ConnectedVehicles.pdf&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jun 2015 00:00:00 -0400</pubDate>
-        <link>https://fogresearch.github.io/researchpaper/paper5/</link>
-        <guid isPermaLink="true">https://fogresearch.github.io/researchpaper/paper5/</guid>
+        <link>http://localhost:4000/researchpaper/2015/06/02/paper5.html</link>
+        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/02/paper5.html</guid>
       </item>
     
       <item>
@@ -69,8 +69,8 @@
         <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://tf.nist.gov/seminars/WSTS/PDFs/1-0_Cisco_FBonomi_ConnectedVehicles.pdf&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jun 2015 00:00:00 -0400</pubDate>
-        <link>https://fogresearch.github.io/researchpaper/paper4/</link>
-        <guid isPermaLink="true">https://fogresearch.github.io/researchpaper/paper4/</guid>
+        <link>http://localhost:4000/researchpaper/2015/06/02/paper4.html</link>
+        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/02/paper4.html</guid>
       </item>
     
       <item>
@@ -78,8 +78,8 @@
         <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://tf.nist.gov/seminars/WSTS/PDFs/1-0_Cisco_FBonomi_ConnectedVehicles.pdf&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jun 2015 00:00:00 -0400</pubDate>
-        <link>https://fogresearch.github.io/researchpaper/paper3/</link>
-        <guid isPermaLink="true">https://fogresearch.github.io/researchpaper/paper3/</guid>
+        <link>http://localhost:4000/researchpaper/2015/06/02/paper3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/02/paper3.html</guid>
       </item>
     
       <item>
@@ -87,8 +87,8 @@
         <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2491270&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jun 2015 00:00:00 -0400</pubDate>
-        <link>https://fogresearch.github.io/researchpaper/paper2/</link>
-        <guid isPermaLink="true">https://fogresearch.github.io/researchpaper/paper2/</guid>
+        <link>http://localhost:4000/researchpaper/2015/06/02/paper2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/02/paper2.html</guid>
       </item>
     
       <item>
@@ -96,8 +96,8 @@
         <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5306098&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jun 2015 00:00:00 -0400</pubDate>
-        <link>https://fogresearch.github.io/researchpaper/paper15/</link>
-        <guid isPermaLink="true">https://fogresearch.github.io/researchpaper/paper15/</guid>
+        <link>http://localhost:4000/researchpaper/2015/06/02/paper15.html</link>
+        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/02/paper15.html</guid>
       </item>
     
   </channel>
