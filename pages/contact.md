@@ -1,18 +1,18 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact and use our contact form"
 show_meta: false
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+teaser: "To get in touch please use the contact form."
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
-<div class="panel">
-<iframe width="100%" height="650" frameborder="0" scrolling="no" src="https://phlowmedia.wufoo.com/embed/z7x3k1/"></iframe>
-</div>
-
-
-
- [1]: http://www.wufoo.com/
+<form action="//formspree.io/email@fognetworks.org"
+      method="POST">
+	<input type="hidden" name="_subject" value="Email from Fognetworks" />
+    Name: <input type="text" name="name">
+    Your email: <input type="email" name="_replyto">
+	<input type="text" name="_gotcha" style="display:none" />
+	Your message: 
+	 <textarea NAME="comments" COLS="40" ROWS="6"></textarea>
+    <input type="submit" value="Send">
+</form>
