@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <description></description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <title>FOG Network</title>
+    <description>»Some description goes here!</description>
+    <link>https://fogresearch.github.io/</link>
+    <atom:link href="https://fogresearch.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>First International 5G Summit takes place in Princeton</title>
@@ -15,89 +15,89 @@
 &lt;p&gt;For more please follow the &lt;a href=&quot;http://5gsummit.org&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Nov 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/news/2015/11/15/5GSummit.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2015/11/15/5GSummit.html</guid>
+        <link>https://fogresearch.github.io/news/5GSummit/</link>
+        <guid isPermaLink="true">https://fogresearch.github.io/news/5GSummit/</guid>
       </item>
     
       <item>
-        <title>The VMware mobile virtualization platform: is that a hypervisor in your pocket?</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=1899945&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+        <title>Connectivity solutions for smart TVs</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6336482&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 01 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/06/01/paper9.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/01/paper9.html</guid>
+        <pubDate>Tue, 02 Jun 2015 00:00:00 -0400</pubDate>
+        <link>https://fogresearch.github.io/researchpaper/paper9/</link>
+        <guid isPermaLink="true">https://fogresearch.github.io/researchpaper/paper9/</guid>
       </item>
     
       <item>
-        <title>Eyo: Device-Transparent Personal Storage</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;https://www.usenix.org/legacy/events/atc11/tech/final_files/Strauss.pdf&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+        <title>Fog computing and its role in the internet of things</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2342513&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 01 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/06/01/paper8.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/01/paper8.html</guid>
+        <pubDate>Tue, 02 Jun 2015 00:00:00 -0400</pubDate>
+        <link>https://fogresearch.github.io/researchpaper/paper8/</link>
+        <guid isPermaLink="true">https://fogresearch.github.io/researchpaper/paper8/</guid>
       </item>
     
       <item>
-        <title>Vision: mClouds-computing on clouds of mobile devices</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2307854&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+        <title>Design aspects of network assisted device-to-device communications</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6163598&amp;amp;tag=1&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 01 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/06/01/paper7.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/01/paper7.html</guid>
+        <pubDate>Tue, 02 Jun 2015 00:00:00 -0400</pubDate>
+        <link>https://fogresearch.github.io/researchpaper/paper7/</link>
+        <guid isPermaLink="true">https://fogresearch.github.io/researchpaper/paper7/</guid>
       </item>
     
       <item>
-        <title>Pocket cloudlets</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=1950387&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+        <title>Quality-of-experience driven adaptive HTTP media delivery</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6654905&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 01 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/06/01/paper6.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/01/paper6.html</guid>
+        <pubDate>Tue, 02 Jun 2015 00:00:00 -0400</pubDate>
+        <link>https://fogresearch.github.io/researchpaper/paper6/</link>
+        <guid isPermaLink="true">https://fogresearch.github.io/researchpaper/paper6/</guid>
       </item>
     
       <item>
-        <title>Mobile cloud computing: A survey</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0167739X12001318&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+        <title>The Smart and Connected Vehicle and the Internet of Things</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://tf.nist.gov/seminars/WSTS/PDFs/1-0_Cisco_FBonomi_ConnectedVehicles.pdf&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 01 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/06/01/paper5.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/01/paper5.html</guid>
+        <pubDate>Tue, 02 Jun 2015 00:00:00 -0400</pubDate>
+        <link>https://fogresearch.github.io/researchpaper/paper5/</link>
+        <guid isPermaLink="true">https://fogresearch.github.io/researchpaper/paper5/</guid>
       </item>
     
       <item>
-        <title>The Role of Cloudlets in Hostile Environments</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://www.istc-cc.cmu.edu/publications/papers/2013/satya2013-hostile-environments.pdf&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+        <title>The Smart and Connected Vehicle and the Internet of Things</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://tf.nist.gov/seminars/WSTS/PDFs/1-0_Cisco_FBonomi_ConnectedVehicles.pdf&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 01 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/06/01/paper4.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/01/paper4.html</guid>
+        <pubDate>Tue, 02 Jun 2015 00:00:00 -0400</pubDate>
+        <link>https://fogresearch.github.io/researchpaper/paper4/</link>
+        <guid isPermaLink="true">https://fogresearch.github.io/researchpaper/paper4/</guid>
       </item>
     
       <item>
-        <title>Towards synchronization of live virtual machines among mobile devices</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2444794&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+        <title>The Smart and Connected Vehicle and the Internet of Things</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://tf.nist.gov/seminars/WSTS/PDFs/1-0_Cisco_FBonomi_ConnectedVehicles.pdf&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 01 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/06/01/paper3.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/01/paper3.html</guid>
+        <pubDate>Tue, 02 Jun 2015 00:00:00 -0400</pubDate>
+        <link>https://fogresearch.github.io/researchpaper/paper3/</link>
+        <guid isPermaLink="true">https://fogresearch.github.io/researchpaper/paper3/</guid>
       </item>
     
       <item>
-        <title>Mobile Data Sync in a Blink</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://www.nec-labs.com/uploads/Documents/Storage-Systems/simba_hotstorage.pdf&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+        <title>Mobile fog: a programming model for large-scale applications on the internet of things</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2491270&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 01 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/06/01/paper2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/01/paper2.html</guid>
+        <pubDate>Tue, 02 Jun 2015 00:00:00 -0400</pubDate>
+        <link>https://fogresearch.github.io/researchpaper/paper2/</link>
+        <guid isPermaLink="true">https://fogresearch.github.io/researchpaper/paper2/</guid>
       </item>
     
       <item>
-        <title>Pocketsphinx: A free, real-time continuous speech recognition system for hand-held devices</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=1298477&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+        <title>A survey on wearable sensor-based systems for health monitoring and prognosis</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5306098&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 01 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/06/01/paper14.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/01/paper14.html</guid>
+        <pubDate>Tue, 02 Jun 2015 00:00:00 -0400</pubDate>
+        <link>https://fogresearch.github.io/researchpaper/paper15/</link>
+        <guid isPermaLink="true">https://fogresearch.github.io/researchpaper/paper15/</guid>
       </item>
     
   </channel>
