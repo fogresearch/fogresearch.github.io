@@ -26,7 +26,7 @@ permalink: "/contribute/"
 		<INPUT TYPE="CHECKBOX" name="Over The Top (OTT) content management">Over The Top (OTT) content management<p/> 
 		<INPUT TYPE="CHECKBOX" name="Distributed data centers and local storage/computing">Distributed data centers and local storage/computing<p/>  
 		<INPUT TYPE="CHECKBOX" name="Physical layer resource pooling among clients">Physical layer resource pooling among clients <p/> 
-		<INPUT TYPE="CHECKBOX" name="Fog architecture for IoT">F og architecture for IoT <p/> 
+		<INPUT TYPE="CHECKBOX" name="Fog architecture for IoT">Fog architecture for IoT <p/> 
 		<INPUT TYPE="CHECKBOX" name="Edge analytics/sensing, stream mining, and augmented reality"> Edge analytics/sensing, stream mining, and augmented reality<p/> 
 		<INPUT TYPE="CHECKBOX" name="Security and privacy of Fog" > Security and privacy of Fog <p/> 		
 	
