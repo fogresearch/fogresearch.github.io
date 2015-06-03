@@ -9,7 +9,7 @@ permalink: "/contribute/"
 <form action="//formspree.io/email@fognetworks.org"
       method="POST">
 	<input type="hidden" name="_subject" value="Paper contribution from Fognetworks" />
-	<input type="hidden" name="_next" value="//site.io/thanks.html" />
+	<input type="hidden" name="_next" value="http://fognetwork.org/>
     Authors: <input type="text" name="name">
     Contact email: <input type="text" name="_replyto">
 	Paper title: <input type="text" name="title">	
