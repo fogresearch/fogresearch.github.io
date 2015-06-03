@@ -5586,10 +5586,10 @@ body.video cite {
 /* Masthead
 ------------------------------------------------------------------- */
 #masthead {
-  background: rgba(73, 151, 179, 0.71); }
+  background:  rgba(140, 195, 240, 1); }
 
 #masthead-no-image-header {
-  background: rgba(73, 151, 179, 0.71); }
+  background: rgba(140, 195, 240, 1); }
 
 #masthead-with-text {
   text-align: center;
