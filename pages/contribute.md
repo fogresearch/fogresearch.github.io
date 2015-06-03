@@ -30,6 +30,6 @@ permalink: "/contribute/"
 		<INPUT TYPE="CHECKBOX" name="Edge analytics/sensing, stream mining, and augmented reality"> Edge analytics/sensing, stream mining, and augmented reality<p/> 
 		<INPUT TYPE="CHECKBOX" name="Security and privacy of Fog" > Security and privacy of Fog <p/> 		
 	
-	 <input type="text" name="_gotcha"  />
+	 <input type="text" name="_gotcha" style="display:none" />
     <input type="submit" value="Submit">
 </form>
