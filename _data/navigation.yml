@@ -41,6 +41,12 @@
 #  - title: "Blog Archive"
 #    url: "/blog/archive/"
 
+
+- title: "Contribute"
+  url: "/contribute/"
+  side: right
+
+
 - title: "Search"
   url: "/search/"
   side: right
