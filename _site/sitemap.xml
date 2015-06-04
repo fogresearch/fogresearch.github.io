@@ -3,9 +3,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/news/2015/11/15/5GSummit.html</loc>
+      <loc>http://localhost:4000/news/2015/11/05/5GSummit.html</loc>
       
-        <lastmod>2015-11-15T00:00:00-05:00</lastmod>
+        <lastmod>2015-11-05T00:00:00-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1596,7 +1596,7 @@
     <url>
       <loc>http://localhost:4000/404.html</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1611,7 +1611,7 @@
     <url>
       <loc>http://localhost:4000/about/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1626,7 +1626,7 @@
     <url>
       <loc>http://localhost:4000/news/archive/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1641,7 +1641,7 @@
     <url>
       <loc>http://localhost:4000/changelog/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1656,7 +1656,7 @@
     <url>
       <loc>http://localhost:4000/researchpapers/client/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1671,7 +1671,7 @@
     <url>
       <loc>http://localhost:4000/contact/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1686,7 +1686,7 @@
     <url>
       <loc>http://localhost:4000/contribute/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1701,7 +1701,7 @@
     <url>
       <loc>http://localhost:4000/researchpapers/crowd/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1716,7 +1716,7 @@
     <url>
       <loc>http://localhost:4000/design/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1731,7 +1731,7 @@
     <url>
       <loc>http://localhost:4000/researchpapers/distributed/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1746,7 +1746,7 @@
     <url>
       <loc>http://localhost:4000/documentation/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1761,7 +1761,7 @@
     <url>
       <loc>http://localhost:4000/researchpapers/edge/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1776,7 +1776,7 @@
     <url>
       <loc>http://localhost:4000/feed.xml</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1791,7 +1791,7 @@
     <url>
       <loc>http://localhost:4000/researchpapers/fogiot/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1806,7 +1806,7 @@
     <url>
       <loc>http://localhost:4000/getting-started/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1821,7 +1821,7 @@
     <url>
       <loc>http://localhost:4000/headers/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1836,7 +1836,7 @@
     <url>
       <loc>http://localhost:4000/humans.txt</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1851,7 +1851,7 @@
     <url>
       <loc>http://localhost:4000/news/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1866,7 +1866,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1881,7 +1881,7 @@
     <url>
       <loc>http://localhost:4000/researchpapers/ott/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1896,7 +1896,7 @@
     <url>
       <loc>http://localhost:4000/researchpapers/physical/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1911,7 +1911,7 @@
     <url>
       <loc>http://localhost:4000/redirect-page/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1926,7 +1926,7 @@
     <url>
       <loc>http://localhost:4000/researchpapers/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1941,7 +1941,7 @@
     <url>
       <loc>http://localhost:4000/roadmap/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1956,7 +1956,7 @@
     <url>
       <loc>http://localhost:4000/robots.txt</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1971,7 +1971,7 @@
     <url>
       <loc>http://localhost:4000/search/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1986,7 +1986,7 @@
     <url>
       <loc>http://localhost:4000/researchpapers/security/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2001,7 +2001,7 @@
     <url>
       <loc>http://localhost:4000/sitemap.xml</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2016,7 +2016,7 @@
     <url>
       <loc>http://localhost:4000/assets/css/styles_feeling_responsive.css</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2031,7 +2031,7 @@
     <url>
       <loc>http://localhost:4000/whitepapers/</loc>
       
-        <lastmod>2015-06-04T10:21:11-04:00</lastmod>
+        <lastmod>2015-06-04T10:22:24-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
