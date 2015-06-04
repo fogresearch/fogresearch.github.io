@@ -7,16 +7,17 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>First International 5G Summit takes place in Princeton</title>
+        <title>FOG Networking for 5G and IoT</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;Recently, IEEE Communication Society has developed a strategic framework based on the principles that embrace Industry’s interests and priorities while integrating IEEE and ComSoc’s objectives. In order to engage industry members with high value and innovative technologies, IEEE Communication Society plans to hold a series of high impact one day Summits in emerging technology areas (e.g., SDN/NFV, 5G, IoT, Big Data, and Cybersecurity). Upcoming IEEE International 5G Summit is the first one in the series that is being planned in Princeton University on Tuesday, May 26, 2015. This one day summit will provide a platform for the industry leaders, innovators, and researchers from the industry and academic community to collaborate and exchange ideas in this emerging technology that may help in driving the standards and rapid deployment.&lt;/p&gt;
+  &lt;p&gt;Pushing computation, control and storage into the “cloud” has been a key trend in networking in the past decade. Over-dependence on the cloud, however, indicates that availability and fault tolerance issues in the cloud would directly impact millions of end-users. Indeed, the cloud is now “descending” to the network edge and often diffused among the client devices in both mobile and wireline networks. The cloud is becoming the “fog.” Empowered by the latest chips, radios, and sensors, each client device today is powerful in computation, in storage, in sensing and in communication. Yet client devices are still limited in battery power, global view of the network, and mobility support. Most interestingly, the collection of many clients in a crowd presents a highly distributed, under-organized, and possibly dense network. Further, wireless networks is increasingly used locally, e.g. intra-building, intra-vehicle, and personal body-area networks; and data generated locally is increasingly consumed locally.
+Fog Network presents an architecture that uses one or a collaborative multitude of end-user clients or near-user edge devices to carry out storage, communication, computation, and control in a network. It is an architecture that will support the Internet of Things, heterogeneous 5G mobile services, and home and personal area networks. Fog Networking leverages past experience in sensor networks, P2P and MANET research, and incorporates the latest advances in devices, network systems, and data science to reshape the “balance of power” in the ecosystem of computing and networking.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;For more please follow the &lt;a href=&quot;http://5gsummit.org&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For more please follow the &lt;a href=&quot;http://secon2015.ieee-secon.org/workshops/fog-networking-5g-and-iot-workshop&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 05 Nov 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/news/2015/11/05/5GSummit.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2015/11/05/5GSummit.html</guid>
+        <pubDate>Thu, 04 Jun 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/news/2015/06/04/fogworkshop.html</link>
+        <guid isPermaLink="true">http://localhost:4000/news/2015/06/04/fogworkshop.html</guid>
       </item>
     
       <item>
