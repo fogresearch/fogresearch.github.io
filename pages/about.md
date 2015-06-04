@@ -4,7 +4,7 @@ title: "FOG"
 subheadline: "What is"
 show_meta: false
 #teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
-permalink: "/info/"
+permalink: "/about/"
 ---
 
 A network architecture that uses one or more end-user clients or near-user edge devices to carry out a substantial amount of storage (rather than stored primarily in cloud data centers), communication (rather than routed over backbone networks), and control, configuration, measurement and management (rather than controlled primarily by network gateways such as those in the LTE core).
