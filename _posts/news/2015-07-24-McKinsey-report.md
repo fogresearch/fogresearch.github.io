@@ -6,6 +6,7 @@ teaser: "Unlocking the potential of the Internet of Things"
 categories:
     - news        
 comments: true
+share: true
 show_meta: false
 ---
 

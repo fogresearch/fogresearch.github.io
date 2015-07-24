@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <description></description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <title>FOG Network</title>
+    <description>»Some description goes here!</description>
+    <link>https://fogresearch.github.iohttp://fognetworks.org/</link>
+    <atom:link href="https://fogresearch.github.iohttp://fognetworks.org/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>McKinsey report on IoT: The Internet of Things: Mapping the Value Beyond the Hype</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;The Internet of Things—sensors and actuators connected by networks to computing systems—has received enormous attention over the past five years. A new McKinsey Global Institute report, The Internet of Things: Mapping the value beyond the hype, attempts to determine exactly how IoT technology can create real economic value.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For more please follow the &lt;a href=&quot;http://www.mckinsey.com/insights/business_technology/the_internet_of_things_the_value_of_digitizing_the_physical_world&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 24 Jul 2015 00:00:00 -0400</pubDate>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/news/McKinsey-report/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/news/McKinsey-report/</guid>
+      </item>
+    
+      <item>
+        <title>Analytics Evolving to the Edge, Leading Data to Reach 1.6 Zettabytes by 2020, Study Says</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;By the end of the decade, says a recent study by ABI research called “&lt;a href=&quot;https://www.abiresearch.com/market-research/product/1021642-edge-analytics-in-iot/&quot;&gt;Edge Analytics in IoT&lt;/a&gt;,” M2M and other IoT-enabled devices will likely have collected more than 1.6 zettabytes (1.6 trillion GB) of data. As a point of caparison, the entire internet was has been estimated to be at somewhere between 4 and 7 trillion GB of data right now. &lt;br /&gt;
+“The data originating from connected products and processes follows a certain journey of magnitudes. The yearly volumes that are generated within endpoints are counted in yottabytes, but only a tiny fraction of this vast data mass is actually being captured for storage or further analysis,” said Aapo Markkanen, principal analyst at ABI. “&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For more please follow the &lt;a href=&quot;http://www.fogcomputingworld.com/topics/fog-computing/articles/401431-analytics-evolving-the-edge-leading-data-reach-16.htm&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 11 Jul 2015 00:00:00 -0400</pubDate>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/news/edge-analytics/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/news/edge-analytics/</guid>
+      </item>
+    
+      <item>
+        <title>Cisco Innovation Grand Challenge</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;With less than 1% of things in the physical world connected to the Internet, there is an incredible opportunity to connect the unconnected, creating vast opportunities to transform businesses and industries by re-inventing business processes, operational efficiencies and customer service innovations. The Cisco Innovation Grand Challenge will recognize startups, entrepreneurs and developers around the world with the most breakthrough digital technologies, products or business models across a variety of categories.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For more please follow the &lt;a href=&quot;https://cisco.younoodle.com/#thechallenge&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 25 Jun 2015 00:00:00 -0400</pubDate>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/news/cisco-challenge/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/news/cisco-challenge/</guid>
+      </item>
+    
+      <item>
+        <title>Brillo Project, Google OS for IoT</title>
+        <description>&lt;p&gt;Brillo extends the Android platform to all your connected devices, so they are easy to set up and work seamlessly with each other and your smartphone..&lt;/p&gt;
+
+&lt;p&gt;For more please follow the &lt;a href=&quot;https://developers.google.com/brillo/&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 05 Jun 2015 00:00:00 -0400</pubDate>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/news/brillo/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/news/brillo/</guid>
+      </item>
+    
+      <item>
+        <title>Verizon releases The Internet of Things 2015 report</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;With billions of devices autonomously pushing data up into the cloud and receiving instructions in return, there will be much greater reliance on networks, even though most IoT traffic will be low volume and in short bursts. Work is already underway to develop intelligent devices that process, filter, and analyze data right at the edge of the network, so decisions can be quickly made.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For more please follow the &lt;a href=&quot;http://www.verizonenterprise.com/resources/reports/rp_state-of-market-the-market-the-internet-of-things-2015_en_xg.pdf&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 Jun 2015 00:00:00 -0400</pubDate>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/news/verizon/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/news/verizon/</guid>
+      </item>
     
       <item>
         <title>FOG Networking for 5G and IoT</title>
@@ -16,8 +80,8 @@ Fog Network presents an architecture that uses one or a collaborative multitude 
 &lt;p&gt;For more please follow the &lt;a href=&quot;http://secon2015.ieee-secon.org/workshops/fog-networking-5g-and-iot-workshop&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 04 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/news/2015/06/04/fogworkshop.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2015/06/04/fogworkshop.html</guid>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/news/fogworkshop/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/news/fogworkshop/</guid>
       </item>
     
       <item>
@@ -25,8 +89,8 @@ Fog Network presents an architecture that uses one or a collaborative multitude 
         <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5463218&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/06/03/paper9.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/03/paper9.html</guid>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/researchpaper/paper9/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/researchpaper/paper9/</guid>
       </item>
     
       <item>
@@ -34,8 +98,8 @@ Fog Network presents an architecture that uses one or a collaborative multitude 
         <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5455787&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/06/03/paper8.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/03/paper8.html</guid>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/researchpaper/paper8/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/researchpaper/paper8/</guid>
       </item>
     
       <item>
@@ -43,8 +107,8 @@ Fog Network presents an architecture that uses one or a collaborative multitude 
         <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2007124&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/06/03/paper7.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/03/paper7.html</guid>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/researchpaper/paper7/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/researchpaper/paper7/</guid>
       </item>
     
       <item>
@@ -52,53 +116,8 @@ Fog Network presents an architecture that uses one or a collaborative multitude 
         <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=1971173&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/06/03/paper6.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/03/paper6.html</guid>
-      </item>
-    
-      <item>
-        <title>CloudNet: dynamic pooling of cloud resources by live WAN migration of virtual machines</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=1952699&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 03 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/06/03/paper5.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/03/paper5.html</guid>
-      </item>
-    
-      <item>
-        <title>Bandwidth management for mobile media delivery</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6503393&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 03 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/06/03/paper4.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/03/paper4.html</guid>
-      </item>
-    
-      <item>
-        <title>Game theoretic modeling of cooperation among service providers in mobile cloud computing environments</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6214343&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 03 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/06/03/paper3.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/03/paper3.html</guid>
-      </item>
-    
-      <item>
-        <title>iVoIP: an intelligent bandwidth management scheme for VoIP in WLANs</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://link.springer.com/article/10.1007/s11276-013-0616-7&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 03 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/06/03/paper2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/03/paper2.html</guid>
-      </item>
-    
-      <item>
-        <title>A noncooperative game-theoretic framework for radio resource management in 4G heterogeneous wireless access networks</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4358981&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 03 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/06/03/paper11.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/03/paper11.html</guid>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/researchpaper/paper6/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/researchpaper/paper6/</guid>
       </item>
     
   </channel>
