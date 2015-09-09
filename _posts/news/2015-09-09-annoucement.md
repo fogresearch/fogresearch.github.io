@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: Annoucement"
+subheadline: "Annoucement"
 title: "America's Greatest Makers: Intel is calling on tech innovators to submit their IoT ideas"
 categories:
     - news
