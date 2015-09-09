@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <description></description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <title>FOG Network</title>
+    <description>»Some description goes here!</description>
+    <link>https://fogresearch.github.iohttp://fognetworks.org/</link>
+    <atom:link href="https://fogresearch.github.iohttp://fognetworks.org/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>America&#39;s Greatest Makers: Intel is calling on tech innovators to submit their IoT ideas</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;America’s Greatest Makers (working title) is coming to television in 2016. Are you ready to build the next truly amazing device? Bring your big ideas to life with Intel, in collaboration with Mark Burnett, United Artists Media Group, and Turner Broadcasting System. Competitors will vie for a $1 million grand prize.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For more please follow the &lt;a href=&quot;https://www-ssl.intel.com/content/www/us/en/wearables/americas-greatest-makers.html&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Sep 2015 00:00:00 -0400</pubDate>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/blog/annoucement/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/blog/annoucement/</guid>
+      </item>
     
       <item>
         <title>Fog Computing: Bringing Cloud Capabilities Down to Earth</title>
@@ -16,8 +29,8 @@ With practically unlimited power and scalability, cloud technology has been a ke
 &lt;p&gt;For more please follow the &lt;a href=&quot;http://blogs.cisco.com/ioe/fog-computing-bringing-cloud-capabilities-down-to-earth&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Aug 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/blog/2015/08/16/blog.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2015/08/16/blog.html</guid>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/blog/blog/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/blog/blog/</guid>
       </item>
     
       <item>
@@ -29,8 +42,8 @@ With practically unlimited power and scalability, cloud technology has been a ke
 &lt;p&gt;For more please follow the &lt;a href=&quot;http://www.mckinsey.com/insights/business_technology/the_internet_of_things_the_value_of_digitizing_the_physical_world&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 24 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/news/2015/07/24/McKinsey-report%20copy.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2015/07/24/McKinsey-report%20copy.html</guid>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/news/McKinsey-report/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/news/McKinsey-report/</guid>
       </item>
     
       <item>
@@ -43,8 +56,8 @@ With practically unlimited power and scalability, cloud technology has been a ke
 &lt;p&gt;For more please follow the &lt;a href=&quot;http://www.fogcomputingworld.com/topics/fog-computing/articles/401431-analytics-evolving-the-edge-leading-data-reach-16.htm&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 11 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/news/2015/07/11/edge-analytics.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2015/07/11/edge-analytics.html</guid>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/news/edge-analytics/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/news/edge-analytics/</guid>
       </item>
     
       <item>
@@ -56,8 +69,8 @@ With practically unlimited power and scalability, cloud technology has been a ke
 &lt;p&gt;For more please follow the &lt;a href=&quot;https://cisco.younoodle.com/#thechallenge&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 25 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/news/2015/06/25/cisco-challenge.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2015/06/25/cisco-challenge.html</guid>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/news/cisco-challenge/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/news/cisco-challenge/</guid>
       </item>
     
       <item>
@@ -67,8 +80,8 @@ With practically unlimited power and scalability, cloud technology has been a ke
 &lt;p&gt;For more please follow the &lt;a href=&quot;https://developers.google.com/brillo/&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 05 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/news/2015/06/05/brillo.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2015/06/05/brillo.html</guid>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/news/brillo/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/news/brillo/</guid>
       </item>
     
       <item>
@@ -80,8 +93,8 @@ With practically unlimited power and scalability, cloud technology has been a ke
 &lt;p&gt;For more please follow the &lt;a href=&quot;http://www.verizonenterprise.com/resources/reports/rp_state-of-market-the-market-the-internet-of-things-2015_en_xg.pdf&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 04 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/news/2015/06/04/verizon.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2015/06/04/verizon.html</guid>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/news/verizon/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/news/verizon/</guid>
       </item>
     
       <item>
@@ -94,8 +107,8 @@ Fog Network presents an architecture that uses one or a collaborative multitude 
 &lt;p&gt;For more please follow the &lt;a href=&quot;http://secon2015.ieee-secon.org/workshops/fog-networking-5g-and-iot-workshop&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 04 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/news/2015/06/04/fogworkshop.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2015/06/04/fogworkshop.html</guid>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/news/fogworkshop/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/news/fogworkshop/</guid>
       </item>
     
       <item>
@@ -103,8 +116,8 @@ Fog Network presents an architecture that uses one or a collaborative multitude 
         <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5463218&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/06/03/paper9.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/03/paper9.html</guid>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/researchpaper/paper9/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/researchpaper/paper9/</guid>
       </item>
     
       <item>
@@ -112,17 +125,8 @@ Fog Network presents an architecture that uses one or a collaborative multitude 
         <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5455787&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/06/03/paper8.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/03/paper8.html</guid>
-      </item>
-    
-      <item>
-        <title>Stochastic networks with multipath flow control: impact of resource pools on flow-level performance and network congestion</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2007124&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 03 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/2015/06/03/paper7.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/2015/06/03/paper7.html</guid>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/researchpaper/paper8/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/researchpaper/paper8/</guid>
       </item>
     
   </channel>

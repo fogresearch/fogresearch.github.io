@@ -3,7 +3,7 @@ layout: page
 subheadline: Annoucement"
 title: "America's Greatest Makers: Intel is calling on tech innovators to submit their IoT ideas"
 categories:
-    - blog
+    - news
 comments: true
 share: true
 show_meta: false
