@@ -7,6 +7,37 @@
     <atom:link href="https://fogresearch.github.iohttp://fognetworks.org/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Paper16</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2677052&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Sep 2015 00:00:00 -0400</pubDate>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/paper16/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/paper16/</guid>
+      </item>
+    
+      <item>
+        <title>Finding your Way in the Fog: Towards a Comprehensive Definition of Fog Computing</title>
+        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2677052&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Sep 2015 00:00:00 -0400</pubDate>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/researchpaper/news/paper16/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/researchpaper/news/paper16/</guid>
+      </item>
+    
+      <item>
+        <title>New Report Identifies Fundamental Research Needs for Advancing Internet of Things &amp; Cutting-Edge Innovations</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;A new report, titled, “Rebooting the IT Revolution: A Call to Action,” produced by the Semiconductor Industry Association (SIA) and the Semiconductor Research Corporation (SRC), calls for, “a targeted and coordinated government initiative similar to that which sparked the semiconductor revolution fifty years ago.” Calling this initiative the “National Computing and Insight Technologies Ecosystem initiative,” or N-CITE, the report identifies critical areas where research, particular federally supported research, is needed in order to position the country to enjoy the full benefit of advances in Big Data and the burgeoning “Internet of Things.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For more please follow the &lt;a href=&quot;http://cra.org/govaffairs/blog/2015/09/rebooting-it-revolution-report/&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 10 Sep 2015 00:00:00 -0400</pubDate>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/news/cra-report/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/news/cra-report/</guid>
+      </item>
+    
+      <item>
         <title>America&#39;s Greatest Makers: Intel is calling on tech innovators to submit their IoT ideas</title>
         <description>&lt;blockquote&gt;
   &lt;p&gt;America’s Greatest Makers (working title) is coming to television in 2016. Are you ready to build the next truly amazing device? Bring your big ideas to life with Intel, in collaboration with Mark Burnett, United Artists Media Group, and Turner Broadcasting System. Competitors will vie for a $1 million grand prize.&lt;/p&gt;
@@ -15,8 +46,8 @@
 &lt;p&gt;For more please follow the &lt;a href=&quot;https://www-ssl.intel.com/content/www/us/en/wearables/americas-greatest-makers.html&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Sep 2015 00:00:00 -0400</pubDate>
-        <link>https://fogresearch.github.iohttp://fognetworks.org/blog/annoucement/</link>
-        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/blog/annoucement/</guid>
+        <link>https://fogresearch.github.iohttp://fognetworks.org/news/annoucement/</link>
+        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/news/annoucement/</guid>
       </item>
     
       <item>
@@ -95,38 +126,6 @@ With practically unlimited power and scalability, cloud technology has been a ke
         <pubDate>Thu, 04 Jun 2015 00:00:00 -0400</pubDate>
         <link>https://fogresearch.github.iohttp://fognetworks.org/news/verizon/</link>
         <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/news/verizon/</guid>
-      </item>
-    
-      <item>
-        <title>FOG Networking for 5G and IoT</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;Pushing computation, control and storage into the “cloud” has been a key trend in networking in the past decade. Over-dependence on the cloud, however, indicates that availability and fault tolerance issues in the cloud would directly impact millions of end-users. Indeed, the cloud is now “descending” to the network edge and often diffused among the client devices in both mobile and wireline networks. The cloud is becoming the “fog.” Empowered by the latest chips, radios, and sensors, each client device today is powerful in computation, in storage, in sensing and in communication. Yet client devices are still limited in battery power, global view of the network, and mobility support. Most interestingly, the collection of many clients in a crowd presents a highly distributed, under-organized, and possibly dense network. Further, wireless networks is increasingly used locally, e.g. intra-building, intra-vehicle, and personal body-area networks; and data generated locally is increasingly consumed locally.
-Fog Network presents an architecture that uses one or a collaborative multitude of end-user clients or near-user edge devices to carry out storage, communication, computation, and control in a network. It is an architecture that will support the Internet of Things, heterogeneous 5G mobile services, and home and personal area networks. Fog Networking leverages past experience in sensor networks, P2P and MANET research, and incorporates the latest advances in devices, network systems, and data science to reshape the “balance of power” in the ecosystem of computing and networking.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;For more please follow the &lt;a href=&quot;http://secon2015.ieee-secon.org/workshops/fog-networking-5g-and-iot-workshop&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 04 Jun 2015 00:00:00 -0400</pubDate>
-        <link>https://fogresearch.github.iohttp://fognetworks.org/news/fogworkshop/</link>
-        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/news/fogworkshop/</guid>
-      </item>
-    
-      <item>
-        <title>Fairness-aware radio resource management in downlink OFDMA cellular relay networks</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5463218&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 03 Jun 2015 00:00:00 -0400</pubDate>
-        <link>https://fogresearch.github.iohttp://fognetworks.org/researchpaper/paper9/</link>
-        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/researchpaper/paper9/</guid>
-      </item>
-    
-      <item>
-        <title>An overview of radio resource management in relay-enhanced OFDMA-based networks</title>
-        <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5455787&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 03 Jun 2015 00:00:00 -0400</pubDate>
-        <link>https://fogresearch.github.iohttp://fognetworks.org/researchpaper/paper8/</link>
-        <guid isPermaLink="true">https://fogresearch.github.iohttp://fognetworks.org/researchpaper/paper8/</guid>
       </item>
     
   </channel>
