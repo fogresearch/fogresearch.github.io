@@ -3,7 +3,22 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper16/</loc>
+      <loc>http://localhost:4000/news/2015/10/28/cra-report.html</loc>
+      
+        <lastmod>2015-10-28T00:00:00-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/researchpaper/news/2015/09/23/paper16.html</loc>
       
         <lastmod>2015-09-23T00:00:00-04:00</lastmod>
       
@@ -18,7 +33,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/news/paper16/</loc>
+      <loc>http://localhost:4000/2015/09/23/paper16.html</loc>
       
         <lastmod>2015-09-23T00:00:00-04:00</lastmod>
       
@@ -33,7 +48,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/news/cra-report/</loc>
+      <loc>http://localhost:4000/news/2015/09/10/cra-report%20copy.html</loc>
       
         <lastmod>2015-09-10T00:00:00-04:00</lastmod>
       
@@ -48,7 +63,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/news/annoucement/</loc>
+      <loc>http://localhost:4000/news/2015/09/09/annoucement.html</loc>
       
         <lastmod>2015-09-09T00:00:00-04:00</lastmod>
       
@@ -63,7 +78,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/blog/blog/</loc>
+      <loc>http://localhost:4000/blog/2015/08/16/blog.html</loc>
       
         <lastmod>2015-08-16T00:00:00-04:00</lastmod>
       
@@ -78,7 +93,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/news/McKinsey-report/</loc>
+      <loc>http://localhost:4000/news/2015/07/24/McKinsey-report.html</loc>
       
         <lastmod>2015-07-24T00:00:00-04:00</lastmod>
       
@@ -93,7 +108,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/news/edge-analytics/</loc>
+      <loc>http://localhost:4000/news/2015/07/11/edge-analytics.html</loc>
       
         <lastmod>2015-07-11T00:00:00-04:00</lastmod>
       
@@ -108,7 +123,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/news/cisco-challenge/</loc>
+      <loc>http://localhost:4000/news/2015/06/25/cisco-challenge.html</loc>
       
         <lastmod>2015-06-25T00:00:00-04:00</lastmod>
       
@@ -123,7 +138,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/news/brillo/</loc>
+      <loc>http://localhost:4000/news/2015/06/05/brillo.html</loc>
       
         <lastmod>2015-06-05T00:00:00-04:00</lastmod>
       
@@ -138,7 +153,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/news/verizon/</loc>
+      <loc>http://localhost:4000/news/2015/06/04/verizon.html</loc>
       
         <lastmod>2015-06-04T00:00:00-04:00</lastmod>
       
@@ -153,7 +168,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/news/fogworkshop/</loc>
+      <loc>http://localhost:4000/news/2015/06/04/fogworkshop.html</loc>
       
         <lastmod>2015-06-04T00:00:00-04:00</lastmod>
       
@@ -168,7 +183,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper9/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/03/paper9.html</loc>
       
         <lastmod>2015-06-03T00:00:00-04:00</lastmod>
       
@@ -183,7 +198,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper9/</loc>
+      <loc>http://localhost:4000/2015/06/03/paper9.html</loc>
       
         <lastmod>2015-06-03T00:00:00-04:00</lastmod>
       
@@ -198,7 +213,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper8/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/03/paper8.html</loc>
       
         <lastmod>2015-06-03T00:00:00-04:00</lastmod>
       
@@ -213,7 +228,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper8/</loc>
+      <loc>http://localhost:4000/2015/06/03/paper8.html</loc>
       
         <lastmod>2015-06-03T00:00:00-04:00</lastmod>
       
@@ -228,7 +243,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper7/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/03/paper7.html</loc>
       
         <lastmod>2015-06-03T00:00:00-04:00</lastmod>
       
@@ -243,7 +258,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper7/</loc>
+      <loc>http://localhost:4000/2015/06/03/paper7.html</loc>
       
         <lastmod>2015-06-03T00:00:00-04:00</lastmod>
       
@@ -258,7 +273,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper6/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/03/paper6.html</loc>
       
         <lastmod>2015-06-03T00:00:00-04:00</lastmod>
       
@@ -273,7 +288,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper6/</loc>
+      <loc>http://localhost:4000/2015/06/03/paper6.html</loc>
       
         <lastmod>2015-06-03T00:00:00-04:00</lastmod>
       
@@ -288,7 +303,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper5/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/03/paper5.html</loc>
       
         <lastmod>2015-06-03T00:00:00-04:00</lastmod>
       
@@ -303,7 +318,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper5/</loc>
+      <loc>http://localhost:4000/2015/06/03/paper5.html</loc>
       
         <lastmod>2015-06-03T00:00:00-04:00</lastmod>
       
@@ -318,7 +333,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper4/</loc>
+      <loc>http://localhost:4000/2015/06/03/paper4.html</loc>
       
         <lastmod>2015-06-03T00:00:00-04:00</lastmod>
       
@@ -333,7 +348,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper4/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/03/paper4.html</loc>
       
         <lastmod>2015-06-03T00:00:00-04:00</lastmod>
       
@@ -348,7 +363,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper3/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/03/paper3.html</loc>
       
         <lastmod>2015-06-03T00:00:00-04:00</lastmod>
       
@@ -363,7 +378,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper3/</loc>
+      <loc>http://localhost:4000/2015/06/03/paper3.html</loc>
       
         <lastmod>2015-06-03T00:00:00-04:00</lastmod>
       
@@ -378,7 +393,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper2/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/03/paper2.html</loc>
       
         <lastmod>2015-06-03T00:00:00-04:00</lastmod>
       
@@ -393,7 +408,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper2/</loc>
+      <loc>http://localhost:4000/2015/06/03/paper2.html</loc>
       
         <lastmod>2015-06-03T00:00:00-04:00</lastmod>
       
@@ -408,7 +423,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper11/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/03/paper11.html</loc>
       
         <lastmod>2015-06-03T00:00:00-04:00</lastmod>
       
@@ -423,7 +438,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper11/</loc>
+      <loc>http://localhost:4000/2015/06/03/paper11.html</loc>
       
         <lastmod>2015-06-03T00:00:00-04:00</lastmod>
       
@@ -438,7 +453,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper10/</loc>
+      <loc>http://localhost:4000/2015/06/03/paper10.html</loc>
       
         <lastmod>2015-06-03T00:00:00-04:00</lastmod>
       
@@ -453,7 +468,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper10/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/03/paper10.html</loc>
       
         <lastmod>2015-06-03T00:00:00-04:00</lastmod>
       
@@ -468,7 +483,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper1/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/03/paper1.html</loc>
       
         <lastmod>2015-06-03T00:00:00-04:00</lastmod>
       
@@ -483,7 +498,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper1/</loc>
+      <loc>http://localhost:4000/2015/06/03/paper1.html</loc>
       
         <lastmod>2015-06-03T00:00:00-04:00</lastmod>
       
@@ -498,7 +513,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper9/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/02/paper9.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -513,7 +528,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper9/</loc>
+      <loc>http://localhost:4000/2015/06/02/paper9.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -528,7 +543,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper8/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/02/paper8.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -543,7 +558,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper8/</loc>
+      <loc>http://localhost:4000/2015/06/02/paper8.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -558,7 +573,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper7/</loc>
+      <loc>http://localhost:4000/2015/06/02/paper7.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -573,7 +588,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper7/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/02/paper7.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -588,7 +603,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper6/</loc>
+      <loc>http://localhost:4000/2015/06/02/paper6.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -603,7 +618,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper6/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/02/paper6.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -618,7 +633,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper5/</loc>
+      <loc>http://localhost:4000/2015/06/02/paper5.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -633,7 +648,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper5/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/02/paper5.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -648,7 +663,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper4/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/02/paper4.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -663,7 +678,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper4/</loc>
+      <loc>http://localhost:4000/2015/06/02/paper4.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -678,7 +693,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper3/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/02/paper3.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -693,7 +708,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper3/</loc>
+      <loc>http://localhost:4000/2015/06/02/paper3.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -708,7 +723,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper2/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/02/paper2.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -723,7 +738,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper2/</loc>
+      <loc>http://localhost:4000/2015/06/02/paper2.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -738,7 +753,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper15/</loc>
+      <loc>http://localhost:4000/2015/06/02/paper15.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -753,7 +768,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper15/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/02/paper15.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -768,7 +783,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper14/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/02/paper14.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -783,7 +798,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper14/</loc>
+      <loc>http://localhost:4000/2015/06/02/paper14.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -798,7 +813,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper13/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/02/paper13.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -813,7 +828,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper13/</loc>
+      <loc>http://localhost:4000/2015/06/02/paper13.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -828,7 +843,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper12/</loc>
+      <loc>http://localhost:4000/2015/06/02/paper12.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -843,7 +858,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper12/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/02/paper12.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -858,7 +873,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper11/</loc>
+      <loc>http://localhost:4000/2015/06/02/paper11.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -873,7 +888,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper11/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/02/paper11.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -888,7 +903,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper10/</loc>
+      <loc>http://localhost:4000/2015/06/02/paper10.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -903,7 +918,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper10/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/02/paper10.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -918,7 +933,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper1/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/02/paper1.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -933,7 +948,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper1/</loc>
+      <loc>http://localhost:4000/2015/06/02/paper1.html</loc>
       
         <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
@@ -948,7 +963,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper9/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/paper9.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -963,7 +978,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper9/</loc>
+      <loc>http://localhost:4000/2015/06/01/paper9.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -978,7 +993,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper8/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/paper8.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -993,7 +1008,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper8/</loc>
+      <loc>http://localhost:4000/2015/06/01/paper8.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1008,7 +1023,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper7/</loc>
+      <loc>http://localhost:4000/2015/06/01/paper7.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1023,7 +1038,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper7/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/paper7.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1038,7 +1053,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper6/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/paper6.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1053,7 +1068,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper6/</loc>
+      <loc>http://localhost:4000/2015/06/01/paper6.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1068,7 +1083,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper5/</loc>
+      <loc>http://localhost:4000/2015/06/01/paper5.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1083,7 +1098,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper5/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/paper5.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1098,7 +1113,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper4/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/paper4.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1113,7 +1128,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper4/</loc>
+      <loc>http://localhost:4000/2015/06/01/paper4.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1128,7 +1143,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper3/</loc>
+      <loc>http://localhost:4000/2015/06/01/paper3.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1143,7 +1158,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper3/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/paper3.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1158,7 +1173,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper2/</loc>
+      <loc>http://localhost:4000/2015/06/01/paper2.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1173,7 +1188,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper2/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/paper2.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1188,7 +1203,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper14/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/paper14.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1203,7 +1218,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper14/</loc>
+      <loc>http://localhost:4000/2015/06/01/paper14.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1218,7 +1233,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper13/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/paper13.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1233,7 +1248,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper13/</loc>
+      <loc>http://localhost:4000/2015/06/01/paper13.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1248,7 +1263,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper12/</loc>
+      <loc>http://localhost:4000/2015/06/01/paper12.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1263,7 +1278,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper12/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/paper12.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1278,7 +1293,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper11/</loc>
+      <loc>http://localhost:4000/2015/06/01/paper11.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1293,7 +1308,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper11/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/paper11.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1308,7 +1323,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper10/</loc>
+      <loc>http://localhost:4000/2015/06/01/paper10.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1323,7 +1338,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper10/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/paper10.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1338,7 +1353,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper1/</loc>
+      <loc>http://localhost:4000/2015/06/01/paper1.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1353,7 +1368,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper1/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/paper1.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1368,7 +1383,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/edge-paper9/</loc>
+      <loc>http://localhost:4000/2015/06/01/edge-paper9.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1383,7 +1398,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/edge-paper9/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/edge-paper9.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1398,7 +1413,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/edge-paper8/</loc>
+      <loc>http://localhost:4000/2015/06/01/edge-paper8.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1413,7 +1428,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/edge-paper8/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/edge-paper8.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1428,7 +1443,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/edge-paper7/</loc>
+      <loc>http://localhost:4000/2015/06/01/edge-paper7.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1443,7 +1458,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/edge-paper7/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/edge-paper7.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1458,7 +1473,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/edge-paper6/</loc>
+      <loc>http://localhost:4000/2015/06/01/edge-paper6.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1473,7 +1488,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/edge-paper6/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/edge-paper6.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1488,7 +1503,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/edge-paper5/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/edge-paper5.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1503,7 +1518,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/edge-paper5/</loc>
+      <loc>http://localhost:4000/2015/06/01/edge-paper5.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1518,7 +1533,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/edge-paper4/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/edge-paper4.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1533,7 +1548,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/edge-paper4/</loc>
+      <loc>http://localhost:4000/2015/06/01/edge-paper4.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1548,7 +1563,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/edge-paper3/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/edge-paper3.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1563,7 +1578,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/edge-paper3/</loc>
+      <loc>http://localhost:4000/2015/06/01/edge-paper3.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1578,7 +1593,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/edge-paper2/</loc>
+      <loc>http://localhost:4000/2015/06/01/edge-paper2.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1593,7 +1608,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/edge-paper2/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/edge-paper2.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1608,7 +1623,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/edge-paper17/</loc>
+      <loc>http://localhost:4000/2015/06/01/edge-paper17.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1623,7 +1638,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/edge-paper17/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/edge-paper17.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1638,7 +1653,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/edge-paper16/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/edge-paper16.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1653,7 +1668,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/edge-paper16/</loc>
+      <loc>http://localhost:4000/2015/06/01/edge-paper16.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1668,7 +1683,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/edge-paper15/</loc>
+      <loc>http://localhost:4000/2015/06/01/edge-paper15.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1683,7 +1698,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/edge-paper15/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/edge-paper15.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1698,7 +1713,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/edge-paper14/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/edge-paper14.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1713,7 +1728,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/edge-paper14/</loc>
+      <loc>http://localhost:4000/2015/06/01/edge-paper14.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1728,7 +1743,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/edge-paper13/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/edge-paper13.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1743,7 +1758,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/edge-paper13/</loc>
+      <loc>http://localhost:4000/2015/06/01/edge-paper13.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1758,7 +1773,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/edge-paper12/</loc>
+      <loc>http://localhost:4000/2015/06/01/edge-paper12.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1773,7 +1788,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/edge-paper12/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/edge-paper12.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1788,7 +1803,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/edge-paper11/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/edge-paper11.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1803,7 +1818,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/edge-paper11/</loc>
+      <loc>http://localhost:4000/2015/06/01/edge-paper11.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1818,7 +1833,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/edge-paper10/</loc>
+      <loc>http://localhost:4000/2015/06/01/edge-paper10.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1833,7 +1848,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/edge-paper10/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/edge-paper10.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1848,7 +1863,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/edge-paper1/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/06/01/edge-paper1.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1863,7 +1878,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/edge-paper1/</loc>
+      <loc>http://localhost:4000/2015/06/01/edge-paper1.html</loc>
       
         <lastmod>2015-06-01T00:00:00-04:00</lastmod>
       
@@ -1878,7 +1893,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper9/</loc>
+      <loc>http://localhost:4000/2015/05/29/paper9.html</loc>
       
         <lastmod>2015-05-29T00:00:00-04:00</lastmod>
       
@@ -1893,7 +1908,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper9/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/29/paper9.html</loc>
       
         <lastmod>2015-05-29T00:00:00-04:00</lastmod>
       
@@ -1908,7 +1923,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper8/</loc>
+      <loc>http://localhost:4000/2015/05/29/paper8.html</loc>
       
         <lastmod>2015-05-29T00:00:00-04:00</lastmod>
       
@@ -1923,7 +1938,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper8/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/29/paper8.html</loc>
       
         <lastmod>2015-05-29T00:00:00-04:00</lastmod>
       
@@ -1938,7 +1953,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper7/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/29/paper7.html</loc>
       
         <lastmod>2015-05-29T00:00:00-04:00</lastmod>
       
@@ -1953,7 +1968,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper7/</loc>
+      <loc>http://localhost:4000/2015/05/29/paper7.html</loc>
       
         <lastmod>2015-05-29T00:00:00-04:00</lastmod>
       
@@ -1968,7 +1983,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper6/</loc>
+      <loc>http://localhost:4000/2015/05/29/paper6.html</loc>
       
         <lastmod>2015-05-29T00:00:00-04:00</lastmod>
       
@@ -1983,7 +1998,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper6/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/29/paper6.html</loc>
       
         <lastmod>2015-05-29T00:00:00-04:00</lastmod>
       
@@ -1998,7 +2013,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper5/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/29/paper5.html</loc>
       
         <lastmod>2015-05-29T00:00:00-04:00</lastmod>
       
@@ -2013,7 +2028,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper5/</loc>
+      <loc>http://localhost:4000/2015/05/29/paper5.html</loc>
       
         <lastmod>2015-05-29T00:00:00-04:00</lastmod>
       
@@ -2028,7 +2043,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper4/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/29/paper4.html</loc>
       
         <lastmod>2015-05-29T00:00:00-04:00</lastmod>
       
@@ -2043,7 +2058,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper4/</loc>
+      <loc>http://localhost:4000/2015/05/29/paper4.html</loc>
       
         <lastmod>2015-05-29T00:00:00-04:00</lastmod>
       
@@ -2058,7 +2073,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper3/</loc>
+      <loc>http://localhost:4000/2015/05/29/paper3.html</loc>
       
         <lastmod>2015-05-29T00:00:00-04:00</lastmod>
       
@@ -2073,7 +2088,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper3/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/29/paper3.html</loc>
       
         <lastmod>2015-05-29T00:00:00-04:00</lastmod>
       
@@ -2088,7 +2103,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper2/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/29/paper2.html</loc>
       
         <lastmod>2015-05-29T00:00:00-04:00</lastmod>
       
@@ -2103,7 +2118,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper2/</loc>
+      <loc>http://localhost:4000/2015/05/29/paper2.html</loc>
       
         <lastmod>2015-05-29T00:00:00-04:00</lastmod>
       
@@ -2118,7 +2133,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper1/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/29/paper1.html</loc>
       
         <lastmod>2015-05-29T00:00:00-04:00</lastmod>
       
@@ -2133,7 +2148,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper1/</loc>
+      <loc>http://localhost:4000/2015/05/29/paper1.html</loc>
       
         <lastmod>2015-05-29T00:00:00-04:00</lastmod>
       
@@ -2148,7 +2163,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper7/</loc>
+      <loc>http://localhost:4000/2015/05/28/paper7.html</loc>
       
         <lastmod>2015-05-28T00:00:00-04:00</lastmod>
       
@@ -2163,7 +2178,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper7/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/28/paper7.html</loc>
       
         <lastmod>2015-05-28T00:00:00-04:00</lastmod>
       
@@ -2178,7 +2193,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper6/</loc>
+      <loc>http://localhost:4000/2015/05/28/paper6.html</loc>
       
         <lastmod>2015-05-28T00:00:00-04:00</lastmod>
       
@@ -2193,7 +2208,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper6/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/28/paper6.html</loc>
       
         <lastmod>2015-05-28T00:00:00-04:00</lastmod>
       
@@ -2208,7 +2223,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper5/</loc>
+      <loc>http://localhost:4000/2015/05/28/paper5.html</loc>
       
         <lastmod>2015-05-28T00:00:00-04:00</lastmod>
       
@@ -2223,7 +2238,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper5/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/28/paper5.html</loc>
       
         <lastmod>2015-05-28T00:00:00-04:00</lastmod>
       
@@ -2238,7 +2253,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper4/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/28/paper4.html</loc>
       
         <lastmod>2015-05-28T00:00:00-04:00</lastmod>
       
@@ -2253,7 +2268,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper4/</loc>
+      <loc>http://localhost:4000/2015/05/28/paper4.html</loc>
       
         <lastmod>2015-05-28T00:00:00-04:00</lastmod>
       
@@ -2268,7 +2283,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper3/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/28/paper3.html</loc>
       
         <lastmod>2015-05-28T00:00:00-04:00</lastmod>
       
@@ -2283,7 +2298,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper3/</loc>
+      <loc>http://localhost:4000/2015/05/28/paper3.html</loc>
       
         <lastmod>2015-05-28T00:00:00-04:00</lastmod>
       
@@ -2298,7 +2313,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper2/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/28/paper2.html</loc>
       
         <lastmod>2015-05-28T00:00:00-04:00</lastmod>
       
@@ -2313,7 +2328,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper2/</loc>
+      <loc>http://localhost:4000/2015/05/28/paper2.html</loc>
       
         <lastmod>2015-05-28T00:00:00-04:00</lastmod>
       
@@ -2328,7 +2343,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper1/</loc>
+      <loc>http://localhost:4000/2015/05/28/paper1.html</loc>
       
         <lastmod>2015-05-28T00:00:00-04:00</lastmod>
       
@@ -2343,7 +2358,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper1/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/28/paper1.html</loc>
       
         <lastmod>2015-05-28T00:00:00-04:00</lastmod>
       
@@ -2358,7 +2373,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/whitepaper/whitepaper3/</loc>
+      <loc>http://localhost:4000/whitepaper/2015/05/27/whitepaper3.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2373,7 +2388,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/whitepaper3/</loc>
+      <loc>http://localhost:4000/2015/05/27/whitepaper3.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2388,7 +2403,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/whitepaper2/</loc>
+      <loc>http://localhost:4000/2015/05/27/whitepaper2.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2403,7 +2418,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/whitepaper/whitepaper2/</loc>
+      <loc>http://localhost:4000/whitepaper/2015/05/27/whitepaper2.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2418,7 +2433,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/whitepaper/whitepaper1/</loc>
+      <loc>http://localhost:4000/whitepaper/2015/05/27/whitepaper1.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2433,7 +2448,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/whitepaper1/</loc>
+      <loc>http://localhost:4000/2015/05/27/whitepaper1.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2448,7 +2463,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper9/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/paper9.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2463,7 +2478,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper9/</loc>
+      <loc>http://localhost:4000/2015/05/27/paper9.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2478,7 +2493,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper8/</loc>
+      <loc>http://localhost:4000/2015/05/27/paper8.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2493,7 +2508,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper8/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/paper8.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2508,7 +2523,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper7/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/paper7.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2523,7 +2538,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper7/</loc>
+      <loc>http://localhost:4000/2015/05/27/paper7.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2538,7 +2553,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper6/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/paper6.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2553,7 +2568,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper6/</loc>
+      <loc>http://localhost:4000/2015/05/27/paper6.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2568,7 +2583,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper5/</loc>
+      <loc>http://localhost:4000/2015/05/27/paper5.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2583,7 +2598,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper5/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/paper5.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2598,7 +2613,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper4/</loc>
+      <loc>http://localhost:4000/2015/05/27/paper4.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2613,7 +2628,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper4/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/paper4.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2628,7 +2643,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper3/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/paper3.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2643,7 +2658,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper3/</loc>
+      <loc>http://localhost:4000/2015/05/27/paper3.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2658,7 +2673,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper2/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/paper2.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2673,7 +2688,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper2/</loc>
+      <loc>http://localhost:4000/2015/05/27/paper2.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2688,7 +2703,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper14/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/paper14.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2703,7 +2718,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper14/</loc>
+      <loc>http://localhost:4000/2015/05/27/paper14.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2718,7 +2733,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper13/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/paper13.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2733,7 +2748,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper13/</loc>
+      <loc>http://localhost:4000/2015/05/27/paper13.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2748,7 +2763,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper12/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/paper12.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2763,7 +2778,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper12/</loc>
+      <loc>http://localhost:4000/2015/05/27/paper12.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2778,7 +2793,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper11/</loc>
+      <loc>http://localhost:4000/2015/05/27/paper11.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2793,7 +2808,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper11/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/paper11.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2808,7 +2823,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper10/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/paper10.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2823,7 +2838,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper10/</loc>
+      <loc>http://localhost:4000/2015/05/27/paper10.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2838,7 +2853,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/paper1/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/paper1.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2853,7 +2868,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/paper1/</loc>
+      <loc>http://localhost:4000/2015/05/27/paper1.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2868,7 +2883,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/client-paper9/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/client-paper9.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2883,7 +2898,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/client-paper9/</loc>
+      <loc>http://localhost:4000/2015/05/27/client-paper9.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2898,7 +2913,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/client-paper8/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/client-paper8.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2913,7 +2928,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/client-paper8/</loc>
+      <loc>http://localhost:4000/2015/05/27/client-paper8.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2928,7 +2943,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/client-paper7/</loc>
+      <loc>http://localhost:4000/2015/05/27/client-paper7.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2943,7 +2958,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/client-paper7/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/client-paper7.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2958,7 +2973,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/client-paper6/</loc>
+      <loc>http://localhost:4000/2015/05/27/client-paper6.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2973,7 +2988,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/client-paper6/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/client-paper6.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -2988,7 +3003,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/client-paper5/</loc>
+      <loc>http://localhost:4000/2015/05/27/client-paper5.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -3003,7 +3018,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/client-paper5/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/client-paper5.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -3018,7 +3033,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/client-paper4/</loc>
+      <loc>http://localhost:4000/2015/05/27/client-paper4.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -3033,7 +3048,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/client-paper4/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/client-paper4.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -3048,7 +3063,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/client-paper3/</loc>
+      <loc>http://localhost:4000/2015/05/27/client-paper3.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -3063,7 +3078,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/client-paper3/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/client-paper3.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -3078,7 +3093,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/client-paper2/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/client-paper2.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -3093,7 +3108,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/client-paper2/</loc>
+      <loc>http://localhost:4000/2015/05/27/client-paper2.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -3108,7 +3123,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/client-paper12/</loc>
+      <loc>http://localhost:4000/2015/05/27/client-paper12.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -3123,7 +3138,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/client-paper12/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/client-paper12.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -3138,7 +3153,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/client-paper11/</loc>
+      <loc>http://localhost:4000/2015/05/27/client-paper11.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -3153,7 +3168,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/client-paper11/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/client-paper11.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -3168,7 +3183,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/client-paper10/</loc>
+      <loc>http://localhost:4000/2015/05/27/client-paper10.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -3183,7 +3198,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/client-paper10/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/client-paper10.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -3198,7 +3213,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpaper/client-paper1/</loc>
+      <loc>http://localhost:4000/2015/05/27/client-paper1.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -3213,7 +3228,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/client-paper1/</loc>
+      <loc>http://localhost:4000/researchpaper/2015/05/27/client-paper1.html</loc>
       
         <lastmod>2015-05-27T00:00:00-04:00</lastmod>
       
@@ -3228,7 +3243,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/news/5GSummit/</loc>
+      <loc>http://localhost:4000/news/2015/05/11/5GSummit.html</loc>
       
         <lastmod>2015-05-11T00:00:00-04:00</lastmod>
       
@@ -3243,7 +3258,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/news/FOGCourse/</loc>
+      <loc>http://localhost:4000/news/2015/03/10/FOGCourse.html</loc>
       
         <lastmod>2015-03-10T00:00:00-04:00</lastmod>
       
@@ -3258,7 +3273,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/news/article/</loc>
+      <loc>http://localhost:4000/news/2014/08/19/article.html</loc>
       
         <lastmod>2014-08-19T00:00:00-04:00</lastmod>
       
@@ -3273,7 +3288,7 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/news/article/</loc>
+      <loc>http://localhost:4000/news/2014/08/05/article.html</loc>
       
         <lastmod>2014-08-05T00:00:00-04:00</lastmod>
       
@@ -3289,9 +3304,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/404.html</loc>
+      <loc>http://localhost:4000/404.html</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3304,9 +3319,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/about/</loc>
+      <loc>http://localhost:4000/about/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3319,9 +3334,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/news/archive/</loc>
+      <loc>http://localhost:4000/news/archive/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3334,9 +3349,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/changelog/</loc>
+      <loc>http://localhost:4000/changelog/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3349,9 +3364,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpapers/client/</loc>
+      <loc>http://localhost:4000/researchpapers/client/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3364,9 +3379,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/contact/</loc>
+      <loc>http://localhost:4000/contact/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3379,9 +3394,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/contribute/</loc>
+      <loc>http://localhost:4000/contribute/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3394,9 +3409,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpapers/crowd/</loc>
+      <loc>http://localhost:4000/researchpapers/crowd/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3409,9 +3424,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/design/</loc>
+      <loc>http://localhost:4000/design/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3424,9 +3439,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpapers/distributed/</loc>
+      <loc>http://localhost:4000/researchpapers/distributed/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3439,9 +3454,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/documentation/</loc>
+      <loc>http://localhost:4000/documentation/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3454,9 +3469,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpapers/edge/</loc>
+      <loc>http://localhost:4000/researchpapers/edge/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3469,9 +3484,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/feed.xml</loc>
+      <loc>http://localhost:4000/feed.xml</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3484,9 +3499,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpapers/fogiot/</loc>
+      <loc>http://localhost:4000/researchpapers/fogiot/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3499,9 +3514,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/getting-started/</loc>
+      <loc>http://localhost:4000/getting-started/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3514,9 +3529,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/headers/</loc>
+      <loc>http://localhost:4000/headers/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3529,9 +3544,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/humans.txt</loc>
+      <loc>http://localhost:4000/humans.txt</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3544,9 +3559,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/news/</loc>
+      <loc>http://localhost:4000/news/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3559,9 +3574,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/</loc>
+      <loc>http://localhost:4000/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3574,9 +3589,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpapers/ott/</loc>
+      <loc>http://localhost:4000/researchpapers/ott/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3589,9 +3604,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpapers/physical/</loc>
+      <loc>http://localhost:4000/researchpapers/physical/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3604,9 +3619,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/redirect-page/</loc>
+      <loc>http://localhost:4000/redirect-page/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3619,9 +3634,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpapers/</loc>
+      <loc>http://localhost:4000/researchpapers/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3634,9 +3649,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/roadmap/</loc>
+      <loc>http://localhost:4000/roadmap/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3649,9 +3664,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/robots.txt</loc>
+      <loc>http://localhost:4000/robots.txt</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3664,9 +3679,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/search/</loc>
+      <loc>http://localhost:4000/search/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3679,9 +3694,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/researchpapers/security/</loc>
+      <loc>http://localhost:4000/researchpapers/security/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3694,9 +3709,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/sitemap.xml</loc>
+      <loc>http://localhost:4000/sitemap.xml</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3709,9 +3724,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/assets/css/styles_feeling_responsive.css</loc>
+      <loc>http://localhost:4000/assets/css/styles_feeling_responsive.css</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -3724,654 +3739,9 @@
   
     
     <url>
-      <loc>https://fogresearch.github.io/whitepapers/</loc>
+      <loc>http://localhost:4000/whitepapers/</loc>
       
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page2/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page3/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page4/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page5/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page6/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page7/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page8/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page9/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page10/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page11/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page12/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page13/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page14/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page15/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page16/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page17/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page18/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page19/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page20/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page21/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page22/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page23/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page24/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page25/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page26/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page27/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page28/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page29/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page30/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page31/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page32/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page33/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page34/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page35/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page36/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page37/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page38/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page39/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page40/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page41/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page42/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page43/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://fogresearch.github.io/news/page44/</loc>
-      
-        <lastmod>2015-09-24T10:29:59-04:00</lastmod>
+        <lastmod>2015-10-28T22:08:52-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
