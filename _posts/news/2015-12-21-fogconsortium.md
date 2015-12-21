@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "Article"
-title: "'Fog' computing harnesses personal devices to speed wireless networks
+title: "'Fog' computing harnesses personal devices to speed wireless networks"
 categories:
     - news
 comments: true
