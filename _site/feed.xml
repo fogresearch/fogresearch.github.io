@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <description></description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <title>FOG Network</title>
+    <description>»Some description goes here!</description>
+    <link>http://localhost:4000http://fognetworks.org/</link>
+    <atom:link href="http://localhost:4000http://fognetworks.org/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>How Uber Uses your Phone as a Backup Datacenter</title>
@@ -16,8 +16,8 @@
 
 </description>
         <pubDate>Wed, 28 Oct 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/news/2015/10/28/cra-report.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2015/10/28/cra-report.html</guid>
+        <link>http://localhost:4000http://fognetworks.org/news/uber/</link>
+        <guid isPermaLink="true">http://localhost:4000http://fognetworks.org/news/uber/</guid>
       </item>
     
       <item>
@@ -25,8 +25,8 @@
         <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2677052&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 23 Sep 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/news/2015/09/23/paper16.html</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/news/2015/09/23/paper16.html</guid>
+        <link>http://localhost:4000http://fognetworks.org/researchpaper/news/paper16/</link>
+        <guid isPermaLink="true">http://localhost:4000http://fognetworks.org/researchpaper/news/paper16/</guid>
       </item>
     
       <item>
@@ -34,8 +34,8 @@
         <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2677052&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 23 Sep 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2015/09/23/paper16.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/09/23/paper16.html</guid>
+        <link>http://localhost:4000http://fognetworks.org/paper16/</link>
+        <guid isPermaLink="true">http://localhost:4000http://fognetworks.org/paper16/</guid>
       </item>
     
       <item>
@@ -47,8 +47,8 @@
 &lt;p&gt;For more please follow the &lt;a href=&quot;http://cra.org/govaffairs/blog/2015/09/rebooting-it-revolution-report/&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Sep 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/news/2015/09/10/cra-report%20copy.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2015/09/10/cra-report%20copy.html</guid>
+        <link>http://localhost:4000http://fognetworks.org/news/cra/</link>
+        <guid isPermaLink="true">http://localhost:4000http://fognetworks.org/news/cra/</guid>
       </item>
     
       <item>
@@ -60,8 +60,8 @@
 &lt;p&gt;For more please follow the &lt;a href=&quot;https://www-ssl.intel.com/content/www/us/en/wearables/americas-greatest-makers.html&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Sep 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/news/2015/09/09/annoucement.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2015/09/09/annoucement.html</guid>
+        <link>http://localhost:4000http://fognetworks.org/news/annoucement/</link>
+        <guid isPermaLink="true">http://localhost:4000http://fognetworks.org/news/annoucement/</guid>
       </item>
     
       <item>
@@ -74,8 +74,8 @@ With practically unlimited power and scalability, cloud technology has been a ke
 &lt;p&gt;For more please follow the &lt;a href=&quot;http://blogs.cisco.com/ioe/fog-computing-bringing-cloud-capabilities-down-to-earth&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Aug 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/blog/2015/08/16/blog.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2015/08/16/blog.html</guid>
+        <link>http://localhost:4000http://fognetworks.org/blog/blog/</link>
+        <guid isPermaLink="true">http://localhost:4000http://fognetworks.org/blog/blog/</guid>
       </item>
     
       <item>
@@ -87,8 +87,8 @@ With practically unlimited power and scalability, cloud technology has been a ke
 &lt;p&gt;For more please follow the &lt;a href=&quot;http://www.mckinsey.com/insights/business_technology/the_internet_of_things_the_value_of_digitizing_the_physical_world&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 24 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/news/2015/07/24/McKinsey-report.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2015/07/24/McKinsey-report.html</guid>
+        <link>http://localhost:4000http://fognetworks.org/news/McKinsey-report/</link>
+        <guid isPermaLink="true">http://localhost:4000http://fognetworks.org/news/McKinsey-report/</guid>
       </item>
     
       <item>
@@ -101,8 +101,8 @@ With practically unlimited power and scalability, cloud technology has been a ke
 &lt;p&gt;For more please follow the &lt;a href=&quot;http://www.fogcomputingworld.com/topics/fog-computing/articles/401431-analytics-evolving-the-edge-leading-data-reach-16.htm&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 11 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/news/2015/07/11/edge-analytics.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2015/07/11/edge-analytics.html</guid>
+        <link>http://localhost:4000http://fognetworks.org/news/edge-analytics/</link>
+        <guid isPermaLink="true">http://localhost:4000http://fognetworks.org/news/edge-analytics/</guid>
       </item>
     
       <item>
@@ -114,8 +114,8 @@ With practically unlimited power and scalability, cloud technology has been a ke
 &lt;p&gt;For more please follow the &lt;a href=&quot;https://cisco.younoodle.com/#thechallenge&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 25 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/news/2015/06/25/cisco-challenge.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2015/06/25/cisco-challenge.html</guid>
+        <link>http://localhost:4000http://fognetworks.org/news/cisco-challenge/</link>
+        <guid isPermaLink="true">http://localhost:4000http://fognetworks.org/news/cisco-challenge/</guid>
       </item>
     
       <item>
@@ -125,8 +125,8 @@ With practically unlimited power and scalability, cloud technology has been a ke
 &lt;p&gt;For more please follow the &lt;a href=&quot;https://developers.google.com/brillo/&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 05 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/news/2015/06/05/brillo.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2015/06/05/brillo.html</guid>
+        <link>http://localhost:4000http://fognetworks.org/news/brillo/</link>
+        <guid isPermaLink="true">http://localhost:4000http://fognetworks.org/news/brillo/</guid>
       </item>
     
   </channel>
