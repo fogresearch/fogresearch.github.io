@@ -21,8 +21,12 @@ description: "»Some description goes here!"
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
+
+#url: "http://localhost:4000"
+#baseurl: "http://localhost:4000"
+
 url: "https://fogresearch.github.io"
-baseurl: "http://fognetworks.org"
+#baseurl: "http://fognetworks.org"
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -35,14 +39,14 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
 urlimg: "https://fogresearch.github.io/images/"
-
+#urlimg: "http://localhost:4000/images/"
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
 
 
 # Paginates all X entries
-paginate: 5
+#paginate: 5
 
 
 # Pagination path › Important for news page in /news/ to work
