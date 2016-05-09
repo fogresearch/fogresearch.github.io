@@ -41,9 +41,12 @@ urlimg: "https://fogresearch.github.io/images/"
 logo: "logo.png"
 
 
-# Paginates all X entries
-paginate: 5
+gems:
+- jekyll-gist
+- jekyll-paginate
 
+paginate: 5                      # Paginates all X entries
+paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
 
 # Pagination path › Important for news page in /news/ to work
 paginate_path: "news/page:num"
