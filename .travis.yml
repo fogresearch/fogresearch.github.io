@@ -3,3 +3,6 @@ rvm:
 - 2.1.1
 script:
 - bundle install & bundle exec jekyll build && bundle exec htmlproof ./_site
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
