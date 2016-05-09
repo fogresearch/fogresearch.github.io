@@ -3,8 +3,8 @@
   <channel>
     <title>FOG Network</title>
     <description>»Some description goes here!</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://fogresearch.github.io/</link>
+    <atom:link href="https://fogresearch.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>&#39;Fog&#39; computing harnesses personal devices to speed wireless networks</title>
@@ -16,8 +16,8 @@
 
 </description>
         <pubDate>Mon, 21 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/news/fogconsortium/</link>
-        <guid isPermaLink="true">http://localhost:4000/news/fogconsortium/</guid>
+        <link>https://fogresearch.github.io/news/fogconsortium/</link>
+        <guid isPermaLink="true">https://fogresearch.github.io/news/fogconsortium/</guid>
       </item>
     
       <item>
@@ -30,8 +30,8 @@
 
 </description>
         <pubDate>Wed, 28 Oct 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/news/uber/</link>
-        <guid isPermaLink="true">http://localhost:4000/news/uber/</guid>
+        <link>https://fogresearch.github.io/news/uber/</link>
+        <guid isPermaLink="true">https://fogresearch.github.io/news/uber/</guid>
       </item>
     
       <item>
@@ -39,8 +39,8 @@
         <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2677052&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 23 Sep 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/researchpaper/news/paper16/</link>
-        <guid isPermaLink="true">http://localhost:4000/researchpaper/news/paper16/</guid>
+        <link>https://fogresearch.github.io/researchpaper/news/paper16/</link>
+        <guid isPermaLink="true">https://fogresearch.github.io/researchpaper/news/paper16/</guid>
       </item>
     
       <item>
@@ -48,8 +48,8 @@
         <description>&lt;p&gt;For more please follow the &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2677052&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 23 Sep 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/paper16/</link>
-        <guid isPermaLink="true">http://localhost:4000/paper16/</guid>
+        <link>https://fogresearch.github.io/paper16/</link>
+        <guid isPermaLink="true">https://fogresearch.github.io/paper16/</guid>
       </item>
     
       <item>
@@ -61,8 +61,8 @@
 &lt;p&gt;For more please follow the &lt;a href=&quot;http://cra.org/govaffairs/blog/2015/09/rebooting-it-revolution-report/&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Sep 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/news/cra/</link>
-        <guid isPermaLink="true">http://localhost:4000/news/cra/</guid>
+        <link>https://fogresearch.github.io/news/cra/</link>
+        <guid isPermaLink="true">https://fogresearch.github.io/news/cra/</guid>
       </item>
     
       <item>
@@ -74,8 +74,8 @@
 &lt;p&gt;For more please follow the &lt;a href=&quot;https://www-ssl.intel.com/content/www/us/en/wearables/americas-greatest-makers.html&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Sep 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/news/annoucement/</link>
-        <guid isPermaLink="true">http://localhost:4000/news/annoucement/</guid>
+        <link>https://fogresearch.github.io/news/annoucement/</link>
+        <guid isPermaLink="true">https://fogresearch.github.io/news/annoucement/</guid>
       </item>
     
       <item>
@@ -88,8 +88,8 @@ With practically unlimited power and scalability, cloud technology has been a ke
 &lt;p&gt;For more please follow the &lt;a href=&quot;http://blogs.cisco.com/ioe/fog-computing-bringing-cloud-capabilities-down-to-earth&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Aug 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/blog/blog/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/blog/</guid>
+        <link>https://fogresearch.github.io/blog/blog/</link>
+        <guid isPermaLink="true">https://fogresearch.github.io/blog/blog/</guid>
       </item>
     
       <item>
@@ -101,8 +101,8 @@ With practically unlimited power and scalability, cloud technology has been a ke
 &lt;p&gt;For more please follow the &lt;a href=&quot;http://www.mckinsey.com/insights/business_technology/the_internet_of_things_the_value_of_digitizing_the_physical_world&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 24 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/news/McKinsey-report/</link>
-        <guid isPermaLink="true">http://localhost:4000/news/McKinsey-report/</guid>
+        <link>https://fogresearch.github.io/news/McKinsey-report/</link>
+        <guid isPermaLink="true">https://fogresearch.github.io/news/McKinsey-report/</guid>
       </item>
     
       <item>
@@ -115,8 +115,8 @@ With practically unlimited power and scalability, cloud technology has been a ke
 &lt;p&gt;For more please follow the &lt;a href=&quot;http://www.fogcomputingworld.com/topics/fog-computing/articles/401431-analytics-evolving-the-edge-leading-data-reach-16.htm&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 11 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/news/edge-analytics/</link>
-        <guid isPermaLink="true">http://localhost:4000/news/edge-analytics/</guid>
+        <link>https://fogresearch.github.io/news/edge-analytics/</link>
+        <guid isPermaLink="true">https://fogresearch.github.io/news/edge-analytics/</guid>
       </item>
     
       <item>
@@ -128,8 +128,8 @@ With practically unlimited power and scalability, cloud technology has been a ke
 &lt;p&gt;For more please follow the &lt;a href=&quot;https://cisco.younoodle.com/#thechallenge&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 25 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/news/cisco-challenge/</link>
-        <guid isPermaLink="true">http://localhost:4000/news/cisco-challenge/</guid>
+        <link>https://fogresearch.github.io/news/cisco-challenge/</link>
+        <guid isPermaLink="true">https://fogresearch.github.io/news/cisco-challenge/</guid>
       </item>
     
   </channel>
