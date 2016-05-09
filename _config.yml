@@ -21,8 +21,8 @@ description: "»Some description goes here!"
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://fogresearch.github.io"
-baseurl: "http://fogresearch.github.io"
+url: "http://fognetworks.org"
+baseurl: "http://fognetworks.org"
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
