@@ -21,8 +21,9 @@ description: "»Some description goes here!"
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://fogresearch.github.io"
-baseurl: "https://fognetworks.org"
+#url: "https://fogresearch.github.io"
+url: "https://fognetworks.org"
+#baseurl: "http://fognetworks.org"
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -35,7 +36,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
 #urlimg: "https://fogresearch.github.io/images/"
-urlimg: "https://fognetworks.org/images/"
+urlimg: "http://fognetworks.org/images/"
 
 
 # Logo size is 600x80 pixels
